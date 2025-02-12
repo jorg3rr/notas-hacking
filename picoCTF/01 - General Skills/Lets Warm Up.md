@@ -4,7 +4,7 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 Solución
 Convertir el número en hexadecimal a su representación en código ASCII
 - Usar una página web hex to ascii
-- Usar una herramient< web como cyberhef
+- Usar una herramienta< web como cyberhef
 
 picoCTF{p}
 
