@@ -147,9 +147,149 @@
               "icon": "lucide-file",
               "title": "Super SSH"
             }
+          },
+          {
+            "id": "c16ac8d90b7c5826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea6-General Skills/Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permissions"
+            }
+          },
+          {
+            "id": "59b22bae1f59fa07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea6-General Skills/Chrono.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chrono"
+            }
+          },
+          {
+            "id": "6dd2c14a9f89c77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Special.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Special"
+            }
+          },
+          {
+            "id": "d9cf87fa451d4fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Commitment Issues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commitment Issues"
+            }
+          },
+          {
+            "id": "322f874d802f1d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Time Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Machine"
+            }
+          },
+          {
+            "id": "4720223af1da5948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Blame Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blame Game"
+            }
+          },
+          {
+            "id": "2b7e489ec456796f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Time Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Machine"
+            }
+          },
+          {
+            "id": "fcd990f0461a7e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search"
+            }
+          },
+          {
+            "id": "c182f1d8f2010fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/Binhexa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binhexa"
+            }
+          },
+          {
+            "id": "c97aeaea91a24eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea1-General Skills/ASCII Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ASCII Numbers"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 19
       },
       {
         "id": "b64b050335ee64ee",
@@ -313,8 +453,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "86408d284163c116",
+  "active": "f657c539fb9fd6bc",
   "lastOpenFiles": [
+    "picoCTF/Tarea1-General Skills/Binhexa.md",
+    "picoCTF/Tarea1-General Skills/ASCII Numbers.md",
+    "picoCTF/Tarea1-General Skills/Binary Search.md",
+    "picoCTF/Tarea1-General Skills/Time Machine.md",
+    "picoCTF/Tarea1-General Skills/Special.md",
+    "picoCTF/Tarea1-General Skills/Permissions.md",
+    "picoCTF/Tarea1-General Skills/Commitment Issues.md",
+    "picoCTF/Tarea1-General Skills/Collaborative Development.md",
+    "picoCTF/Tarea1-General Skills/Chrono.md",
+    "picoCTF/Tarea1-General Skills/Blame Game.md",
+    "picoCTF/Tarea1-General Skills",
+    "picoCTF/03 - General Skills/Super SSH.md",
     "picoCTF/03 - General Skills/Serpentine.md",
     "picoCTF/03 - General Skills/runme.py.md",
     "picoCTF/03 - General Skills/PW Crack 3.md",
@@ -324,7 +476,6 @@
     "picoCTF/03 - General Skills/fixme1.py.md",
     "picoCTF/03 - General Skills/convertme.py.md",
     "picoCTF/03 - General Skills/Codebook.md",
-    "picoCTF/03 - General Skills/Super SSH.md",
     "picoCTF/02 - General Skills/Useless.md",
     "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills/Based.md",
@@ -332,16 +483,6 @@
     "picoCTF/02 - General Skills/repetitions.md",
     "picoCTF/02 - General Skills/Magikarp Ground Mission.md",
     "picoCTF/02 - General Skills/Tab, Tab, Attack.md",
-    "picoCTF/02 - General Skills/Static ain't always noise.md",
-    "picoCTF/02 - General Skills/Wave a flag.md",
-    "picoCTF/02 - General Skills/Strings it.md",
-    "picoCTF/01 - General Skills/Glitch Cat.md",
-    "picoCTF/01 - General Skills/Nice netcat....md",
-    "picoCTF/01 - General Skills/Lets Warm Up.md",
-    "picoCTF/01 - General Skills/what's a net cat.md",
-    "picoCTF/01 - General Skills/Obedient Cat.md",
-    "picoCTF/01 - General Skills/First Grep.md",
-    "picoCTF/01 - General Skills/Bases.md",
     "picoCTF/02 - General Skills",
     "picoCTF",
     "picoCTF/01 - General Skills"
