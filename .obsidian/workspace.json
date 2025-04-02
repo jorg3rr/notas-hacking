@@ -6,7 +6,7 @@
       {
         "id": "849a32c80d674c34",
         "type": "tabs",
-        "dimension": 51.51006711409396,
+        "dimension": 49.91610738255034,
         "children": [
           {
             "id": "b34540c840890497",
@@ -467,14 +467,154 @@
               "icon": "lucide-file",
               "title": "JaWT Scratchpad"
             }
+          },
+          {
+            "id": "7ee606842b2fc9a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Includes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Includes"
+            }
+          },
+          {
+            "id": "33acead98c87bae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspect HTML"
+            }
+          },
+          {
+            "id": "e955e136c5d663c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/IntroToBurp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IntroToBurp"
+            }
+          },
+          {
+            "id": "bf45a7a2d69e7746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Local Authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Local Authority"
+            }
+          },
+          {
+            "id": "c4e050d127e80147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Cookie"
+            }
+          },
+          {
+            "id": "ff95fff28714ebc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Robot Sans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Robot Sans"
+            }
+          },
+          {
+            "id": "41610b08922fb02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Secrets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Secrets"
+            }
+          },
+          {
+            "id": "ca95fc0d3d432a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/SQLiLite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLiLite"
+            }
+          },
+          {
+            "id": "3a60995a1c88237a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/Unminify.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unminify"
+            }
+          },
+          {
+            "id": "543ccf7d5653f62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Tarea 2 - Retos Web/WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WebDecode"
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 42
       },
       {
         "id": "b64b050335ee64ee",
         "type": "tabs",
-        "dimension": 48.48993288590604,
+        "dimension": 50.08389261744966,
         "children": [
           {
             "id": "f57a4cac40528b4c",
@@ -633,10 +773,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b3d1edb64849b509",
+  "active": "f657c539fb9fd6bc",
   "lastOpenFiles": [
-    "picoCTF/Web 3/More SQLi.md",
+    "picoCTF/Tarea 2 - Retos Web/Unminify.md",
+    "picoCTF/Tarea 2 - Retos Web/WebDecode.md",
+    "picoCTF/Tarea 2 - Retos Web/SQLiLite.md",
+    "picoCTF/Tarea 2 - Retos Web/Secrets.md",
+    "picoCTF/Tarea 2 - Retos Web/Robot Sans.md",
+    "picoCTF/Tarea 2 - Retos Web/Power Cookie.md",
+    "picoCTF/Tarea 2 - Retos Web/Local Authority.md",
+    "picoCTF/Tarea 2 - Retos Web/IntroToBurp.md",
+    "picoCTF/Tarea 2 - Retos Web/Inspect HTML.md",
+    "picoCTF/Tarea 2 - Retos Web/Includes.md",
     "picoCTF/Web 3/JaWT Scratchpad.md",
+    "picoCTF/Tarea 2 - Retos Web",
+    "picoCTF/Web 3/More SQLi.md",
     "picoCTF/Web 3/Irish-Name-Repo 1.md",
     "picoCTF/Web 2/Scavenger Hunt.md",
     "picoCTF/Web 3",
@@ -654,17 +805,7 @@
     "picoCTF/Tarea1-General Skills/Binhexa.md",
     "picoCTF/Tarea1-General Skills/Binary Search.md",
     "picoCTF/Tarea1-General Skills/Time Machine.md",
-    "picoCTF/Tarea1-General Skills/Special.md",
-    "picoCTF/Tarea1-General Skills/Permissions.md",
-    "picoCTF/Tarea1-General Skills/Commitment Issues.md",
-    "picoCTF/Tarea1-General Skills/Collaborative Development.md",
-    "picoCTF/Tarea1-General Skills/Chrono.md",
-    "picoCTF/Tarea1-General Skills/Blame Game.md",
     "picoCTF/Tarea1-General Skills",
-    "picoCTF/03 - General Skills/Super SSH.md",
-    "picoCTF/03 - General Skills/Serpentine.md",
-    "picoCTF/03 - General Skills/runme.py.md",
-    "picoCTF/03 - General Skills/PW Crack 3.md",
     "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills",
     "picoCTF",
