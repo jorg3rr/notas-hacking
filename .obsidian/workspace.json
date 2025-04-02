@@ -607,9 +607,65 @@
               "icon": "lucide-file",
               "title": "WebDecode"
             }
+          },
+          {
+            "id": "4969cb8df6c9c4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web 4/MatchTheRegex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MatchTheRegex"
+            }
+          },
+          {
+            "id": "38ad68491f9b2b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web 4/SOAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOAP"
+            }
+          },
+          {
+            "id": "b046bf641af44c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web 4/Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
+            }
+          },
+          {
+            "id": "108c3715e0347821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Web 4/Most Cookies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Most Cookies"
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 46
       },
       {
         "id": "b64b050335ee64ee",
@@ -775,8 +831,13 @@
   },
   "active": "f657c539fb9fd6bc",
   "lastOpenFiles": [
-    "picoCTF/Tarea 2 - Retos Web/Unminify.md",
+    "picoCTF/Web 4/Trickster.md",
+    "picoCTF/Web 4/Most Cookies.md",
+    "picoCTF/Web 4/SOAP.md",
+    "picoCTF/Web 4/MatchTheRegex.md",
+    "picoCTF/Web 4",
     "picoCTF/Tarea 2 - Retos Web/WebDecode.md",
+    "picoCTF/Tarea 2 - Retos Web/Unminify.md",
     "picoCTF/Tarea 2 - Retos Web/SQLiLite.md",
     "picoCTF/Tarea 2 - Retos Web/Secrets.md",
     "picoCTF/Tarea 2 - Retos Web/Robot Sans.md",
@@ -800,11 +861,7 @@
     "picoCTF/Web 1/Where are the robots.md",
     "picoCTF/Web 1/logon.md",
     "picoCTF/Web 1/Insp3ct0r.md",
-    "picoCTF/Tarea1-General Skills/ASCII Numbers.md",
     "picoCTF/Web 1",
-    "picoCTF/Tarea1-General Skills/Binhexa.md",
-    "picoCTF/Tarea1-General Skills/Binary Search.md",
-    "picoCTF/Tarea1-General Skills/Time Machine.md",
     "picoCTF/Tarea1-General Skills",
     "picoCTF/03 - General Skills",
     "picoCTF/02 - General Skills",
