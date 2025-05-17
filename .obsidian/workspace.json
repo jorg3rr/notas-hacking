@@ -9,257 +9,119 @@
         "dimension": 60.486577181208055,
         "children": [
           {
-            "id": "8d1e624494d0b591",
+            "id": "c869aef221d828b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 03/MacroHard WeakEdge.md",
+                "file": "picoCTF/Crypto 01/The Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "The Numbers"
             }
           },
           {
-            "id": "511af5e4978ae64a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "70864f1dee38f019",
+            "id": "7e08b92ba0ea0f4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Milkslap.md",
+                "file": "picoCTF/Crypto 01/13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milkslap"
+              "title": "13"
             }
           },
           {
-            "id": "3a9a9f8f4b64a16c",
+            "id": "8e5225a2e8e51c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Disk, disk, sleuth!.md",
+                "file": "picoCTF/Crypto 01/Caesar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disk, disk, sleuth!"
+              "title": "Caesar"
             }
           },
           {
-            "id": "766c6f2b39775f84",
+            "id": "ccd37ac5061e4e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Sleuthkit Intro.md",
+                "file": "picoCTF/Crypto 01/la-cifra-de.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sleuthkit Intro"
+              "title": "la-cifra-de"
             }
           },
           {
-            "id": "6bce9e36d551c595",
+            "id": "7a9d997b1830715b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Sleuthkit Apprentice.md",
+                "file": "picoCTF/Crypto 01/Tapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sleuthkit Apprentice"
+              "title": "Tapping"
             }
           },
           {
-            "id": "703105273f379935",
+            "id": "5810002e6b61a208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Operation Orchid.md",
+                "file": "picoCTF/Crypto 01/Tapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Orchid"
+              "title": "Tapping"
             }
           },
           {
-            "id": "27bf7e4d404c1378",
+            "id": "0e29e0e650ad91f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 04/Operation Oni.md",
+                "file": "picoCTF/Crypto 01/waves over lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "waves over lambda"
             }
           },
           {
-            "id": "e607cede4f8cdf8d",
+            "id": "c23a1f5c1758dcc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Information.md",
+                "file": "picoCTF/Crypto 01/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information"
-            }
-          },
-          {
-            "id": "7ce8b3928e4b354b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redaction gone wrong"
-            }
-          },
-          {
-            "id": "eef2ba9b27c4cdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Redaction gone wrong"
-            }
-          },
-          {
-            "id": "4af89c030ea199e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/hideme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hideme"
-            }
-          },
-          {
-            "id": "dbba7fb1e3cedc72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Scan Surprise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scan Surprise"
-            }
-          },
-          {
-            "id": "90117b985181bed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/CanYouSee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CanYouSee"
-            }
-          },
-          {
-            "id": "3574218d65d0f9f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Secret of the Polyglot"
-            }
-          },
-          {
-            "id": "60b2ee6263f366e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/RED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RED"
-            }
-          },
-          {
-            "id": "0c5eb208bc61b51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ph4nt0m 1ntrud3r"
-            }
-          },
-          {
-            "id": "a88f50f8f24166f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Tarea 3 - Forensic/flags are stepic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flags are stepic"
+              "title": "interencdec"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 7
       },
       {
         "id": "b64b050335ee64ee",
@@ -423,36 +285,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a88f50f8f24166f4",
+  "active": "c23a1f5c1758dcc1",
   "lastOpenFiles": [
+    "picoCTF/Crypto 01/waves over lambda.md",
+    "picoCTF/Crypto 01/interencdec.md",
+    "picoCTF/Crypto 01/Tapping.md",
+    "picoCTF/Crypto 01/la-cifra-de.md",
+    "picoCTF/Crypto 01/Easy 1.md",
+    "picoCTF/Crypto 01/Caesar.md",
+    "picoCTF/Crypto 01/13.md",
+    "picoCTF/Crypto 01/The Numbers.md",
+    "picoCTF/Forensic 04/Milkslap.md",
+    "picoCTF/Forensic 04/Disk, disk, sleuth!.md",
+    "picoCTF/Forensic 04/Sleuthkit Intro.md",
+    "picoCTF/Forensic 04/Sleuthkit Apprentice.md",
+    "picoCTF/Forensic 04/Operation Orchid.md",
+    "picoCTF/Forensic 04/Operation Oni.md",
+    "picoCTF/Tarea 3 - Forensic/Information.md",
+    "picoCTF/Tarea 3 - Forensic/Redaction gone wrong.md",
+    "picoCTF/Tarea 3 - Forensic/Scan Surprise.md",
+    "picoCTF/Tarea 3 - Forensic/CanYouSee.md",
+    "picoCTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
+    "picoCTF/Tarea 3 - Forensic/RED.md",
     "picoCTF/Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
     "picoCTF/Tarea 3 - Forensic/flags are stepic.md",
-    "picoCTF/Tarea 3 - Forensic/RED.md",
-    "picoCTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
-    "picoCTF/Tarea 3 - Forensic/CanYouSee.md",
-    "picoCTF/Tarea 3 - Forensic/Scan Surprise.md",
+    "picoCTF/Crypto 01",
     "picoCTF/Tarea 3 - Forensic/hideme.md",
-    "picoCTF/Tarea 3 - Forensic/Redaction gone wrong.md",
     "picoCTF/Tarea 3 - Forensic/St3g0.md",
-    "picoCTF/Tarea 3 - Forensic/Information.md",
-    "picoCTF/Forensic 04/Operation Oni.md",
     "picoCTF/Tarea 3 - Forensic",
-    "picoCTF/Forensic 04/Operation Orchid.md",
-    "picoCTF/Forensic 04/Sleuthkit Apprentice.md",
-    "picoCTF/Forensic 04/Sleuthkit Intro.md",
-    "picoCTF/Forensic 04/Disk, disk, sleuth!.md",
-    "picoCTF/Forensic 04/Milkslap.md",
     "picoCTF/Forensic 04",
     "picoCTF/03 - General Skills/fixme1.py.md",
     "picoCTF/02 - General Skills/Useless.md",
-    "picoCTF/03 - General Skills/runme.py.md",
-    "picoCTF/03 - General Skills/Super SSH.md",
-    "picoCTF/Forensic 03/MacroHard WeakEdge.md",
-    "picoCTF/Forensic 03/tunn3l v1s10n.md",
-    "picoCTF/Forensic 03/Matryoshka doll.md",
-    "picoCTF/Forensic 03/WebNet1.md",
-    "picoCTF/Forensic 03/WebNet0.md",
-    "README.md",
     "picoCTF/Forensic 03",
     "Pasted image 20250414221540.png",
     "picoCTF/Primer Parcial/Parte 2 - Web",
@@ -460,7 +323,6 @@
     "picoCTF/Primer Parcial",
     "picoCTF/Forensic 02",
     "picoCTF/Forensic 01",
-    "picoCTF/Web 4",
-    "picoCTF/Tarea 2 - Retos Web"
+    "picoCTF/Web 4"
   ]
 }
